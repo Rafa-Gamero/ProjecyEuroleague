@@ -1,0 +1,19 @@
+team,probalidades_ganar,seguidores
+ALBA Berlin,47.7%,66848
+AS Monaco,35.1%,87298
+Anadolu Efes Istanbul,65.8%,256298
+Baskonia Vitoria-Gasteiz,79%,96270
+Crvena Zvezda Meridianbet Belgrade,41.6%,360021
+EA7 Emporio Armani Milan,56.5%,162826
+FC Barcelona,75.8%,1318726
+FC Bayern Munich,43.4%,331768
+Fenerbahce Beko Istanbul,80.5%,1384889
+LDLC ASVEL Villeurbanne,34%,92717
+Maccabi Playtika Tel Aviv,87.5%,138237
+Olympiacos Piraeus,74.7%,342933
+Panathinaikos Athens,74%,590806
+Partizan Mozzart Bet Belgrade,50.5%,416329
+Real Madrid,78.2%,4982982
+Valencia Basket, 35.4%,118974
+Virtus Segafredo Bologna,34.6%,109403
+Zalgiris Kaunas,59.1%,183015
