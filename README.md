@@ -78,7 +78,6 @@ Este proyecto tiene dos componentes principales:
 ### Requisitos:
 - Python 3.8+
 - Power BI Desktop
-- Streamlit
 - Bibliotecas de Python:
   - `pandas`
   - `scikit-learn`
@@ -95,5 +94,5 @@ Este proyecto tiene dos componentes principales:
 ## Contacto
 
 **Rafael Gamero Arrabal**  
-Consultor en análisis de datos y predicciones deportivas.  
-[Tu correo electrónico]  
+  
+[rafagameroarrabal@gmail.com]  
