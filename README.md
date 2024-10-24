@@ -95,4 +95,4 @@ Este proyecto tiene dos componentes principales:
 
 **Rafael Gamero Arrabal**  
   
-[rafagameroarrabal@gmail.com]  
+[LinkedIn: Rafael Gamero Arrabal](https://www.linkedin.com/in/rafael-gamero-arrabal-619200186/)   
