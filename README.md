@@ -91,6 +91,10 @@ Este proyecto tiene dos componentes principales:
 1. Abrir el archivo `.pbix` en Power BI Desktop.
 2. Interactuar con los filtros y segmentaciones para analizar la exposición de marca.
 
+## Presentación en Canva
+
+Accede a la presentación del proyecto en Canva a través de [este enlace](https://www.canva.com/design/DAGUeNMIqbQ/lRcl9NFNEJvMmCJPsulM1Q/view?utm_content=DAGUeNMIqbQ&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
 ## Contacto
 
 **Rafael Gamero Arrabal**  
